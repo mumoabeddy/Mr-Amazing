@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "968983368760",
+    "firebase_url": "https://h-rent-e64e7-default-rtdb.firebaseio.com",
+    "project_id": "h-rent-e64e7",
+    "storage_bucket": "h-rent-e64e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968983368760:android:5c45a5babf9defc84242cd",
+        "android_client_info": {
+          "package_name": "com.example.hrent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj0uzv0KnyrJ3EeCEp9GXuvhvJBFogslo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968983368760:android:12bd0add469050144242cd",
+        "android_client_info": {
+          "package_name": "com.example.mramazing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj0uzv0KnyrJ3EeCEp9GXuvhvJBFogslo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
